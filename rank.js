@@ -101,7 +101,9 @@ async function renderRankTable(data) {
 
 // 获取排名数据
 async function getRankData() {
-    return await fetch("https://proxy.xkk1.dpdns.org/https://rank.xiaci.cn/rank.php")
+    // 获取当前时间戳
+    const timestamp = Math.floor(Date.now() / 1000);
+    return await fetch(`https://proxy.120107.xyz/https://rank.xiaci.cn/rank.php?timestamp=${timestamp}`)
         .then(function(response) {
             return response.json();
         })
