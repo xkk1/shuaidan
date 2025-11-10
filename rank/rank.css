@@ -161,7 +161,7 @@ body {
     display: inline-block;
     width: 28px;
     height: 28px;
-    background-image: url(https://rank.xiaci.cn/grade/x1.png);
+    background-image: url("https://rank.xiaci.cn/grade/x1.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -169,15 +169,15 @@ body {
 
 /* 奇珍 */
 #rank-table .qizhen::before {
-    background-image: url(https://rank.xiaci.cn/grade/x1.png);
+    background-image: url("https://rank.xiaci.cn/grade/x1.png");
 }
 
 /* 珊瑚 */
 #rank-table .shanhu::before {
-    background-image: url(https://rank.xiaci.cn/grade/x2.png);
+    background-image: url("https://rank.xiaci.cn/grade/x2.png");
 }
 
 /* 金冠 */
 #rank-table .jinguan::before {
-    background-image: url(https://rank.xiaci.cn/grade/x3.png);
+    background-image: url("https://rank.xiaci.cn/grade/x3.png");
 }

@@ -1,3 +1,16 @@
+// 获取排名数据 URL
+var getRankDataUrl = function() {
+    // 获取当前时间戳
+    const timestamp = Math.floor(Date.now() / 1000);
+    return `https://proxy.120107.xyz/https://rank.xiaci.cn/rank.php?timestamp=${timestamp}`;
+}
+
+// 默认头像 URL
+var defaultAvatarUrl = "https://rank.xiaci.cn/grade/title.png";
+// 获取上传头像 URL
+var getAvatarUrl = function(avatar) {
+    return "https://rank.xiaci.cn" + avatar;
+}
 
 // 渲染排名表格
 async function renderRankTable(data) {
@@ -42,10 +55,10 @@ async function renderRankTable(data) {
         const avatarDiv = document.createElement('div');
         avatarDiv.className = 'avatar-wrap';
         // 若有头像 URL，可设置背景图或 img 子元素
-        let avatarUrl = "https://rank.xiaci.cn/grade/title.png";
+        let avatarUrl = defaultAvatarUrl;
         let avatarAlt = "默认头像";
         if (participant.avatar) {
-            avatarUrl = "https://rank.xiaci.cn/" + participant.avatar;
+            avatarUrl = getAvatarUrl(participant.avatar);
             avatarAlt = participant.name + " 的头像";
         }
         const avatarImg = document.createElement('img');
@@ -101,9 +114,7 @@ async function renderRankTable(data) {
 
 // 获取排名数据
 async function getRankData() {
-    // 获取当前时间戳
-    const timestamp = Math.floor(Date.now() / 1000);
-    return await fetch(`https://proxy.120107.xyz/https://rank.xiaci.cn/rank.php?timestamp=${timestamp}`)
+    return await fetch(getRankDataUrl())
         .then(function(response) {
             return response.json();
         })

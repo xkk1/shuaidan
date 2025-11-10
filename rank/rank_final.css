@@ -1,0 +1,26 @@
+#rank-table tbody tr:nth-of-type(1) .avatar-wrap::after {
+    background-image: url("img/ph1.png");
+}
+
+#rank-table tbody tr:nth-of-type(2) .avatar-wrap::after {
+    background-image: url("img/ph2.png");
+}
+
+#rank-table tbody tr:nth-of-type(3) .avatar-wrap::after {
+    background-image: url("img/ph3.png");
+}
+
+/* 奇珍 */
+#rank-table .qizhen::before {
+    background-image: url("img/qizhen.png");
+}
+
+/* 珊瑚 */
+#rank-table .shanhu::before {
+    background-image: url("img/shanhu.png");
+}
+
+/* 金冠 */
+#rank-table .jinguan::before {
+    background-image: url("img/jinguan.png");
+}
