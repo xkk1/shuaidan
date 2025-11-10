@@ -1,0 +1,4987 @@
+{
+    "status": "success",
+    "top_3": [
+        {
+            "rank": 1,
+            "name": "星河爷爷",
+            "uid": "688700462",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 5,
+            "jinguan": 14,
+            "total_score": 95
+        },
+        {
+            "rank": 2,
+            "name": "幸运洋丶2",
+            "uid": "136204147",
+            "avatar": "\/uploads\/20251109\/4dcb1bd02e9e155dacccc67ddb58ede1.jpeg",
+            "qizhen": 51,
+            "shanhu": 4,
+            "jinguan": 11,
+            "total_score": 92
+        },
+        {
+            "rank": 3,
+            "name": "仪曦记得你",
+            "uid": "55079667",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 3,
+            "jinguan": 15,
+            "total_score": 91
+        }
+    ],
+    "list": [
+        {
+            "rank": 4,
+            "name": "Sunshinexd",
+            "uid": "395944417",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 6,
+            "jinguan": 11,
+            "total_score": 90
+        },
+        {
+            "rank": 5,
+            "name": "略",
+            "uid": "1527200533",
+            "avatar": "",
+            "qizhen": 52,
+            "shanhu": 6,
+            "jinguan": 8,
+            "total_score": 88
+        },
+        {
+            "rank": 6,
+            "name": "A繁星",
+            "uid": "1411856955",
+            "avatar": "\/uploads\/20251103\/b1dfcc1a9021a76d34800c2fddc9b775.png",
+            "qizhen": 50,
+            "shanhu": 8,
+            "jinguan": 7,
+            "total_score": 87
+        },
+        {
+            "rank": 7,
+            "name": "樛木2138",
+            "uid": "639522982",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 8,
+            "jinguan": 9,
+            "total_score": 86
+        },
+        {
+            "rank": 8,
+            "name": "小婕欧啦欧啦",
+            "uid": "1228417210",
+            "avatar": "\/uploads\/20251103\/75df7206021a1ad775ef61b519d8cfa6.jpg",
+            "qizhen": 49,
+            "shanhu": 5,
+            "jinguan": 9,
+            "total_score": 86
+        },
+        {
+            "rank": 9,
+            "name": "無椇",
+            "uid": "688749809",
+            "avatar": "",
+            "qizhen": 51,
+            "shanhu": 4,
+            "jinguan": 9,
+            "total_score": 86
+        },
+        {
+            "rank": 10,
+            "name": "尐白帅",
+            "uid": "1541074150",
+            "avatar": "",
+            "qizhen": 51,
+            "shanhu": 2,
+            "jinguan": 10,
+            "total_score": 85
+        },
+        {
+            "rank": 11,
+            "name": "诗",
+            "uid": "392331070",
+            "avatar": "\/uploads\/20251103\/9e78600297fc3e9bf190d575d28fcbfa.jpeg",
+            "qizhen": 46,
+            "shanhu": 6,
+            "jinguan": 9,
+            "total_score": 85
+        },
+        {
+            "rank": 12,
+            "name": "九丫鸭",
+            "uid": "1355605889",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 5,
+            "jinguan": 10,
+            "total_score": 84
+        },
+        {
+            "rank": 13,
+            "name": "尘崽66",
+            "uid": "1008900121",
+            "avatar": "",
+            "qizhen": 58,
+            "shanhu": 7,
+            "jinguan": 4,
+            "total_score": 84
+        },
+        {
+            "rank": 14,
+            "name": "树凌",
+            "uid": "1020271676",
+            "avatar": "",
+            "qizhen": 53,
+            "shanhu": 3,
+            "jinguan": 8,
+            "total_score": 83
+        },
+        {
+            "rank": 15,
+            "name": "赵砚清",
+            "uid": "1032503324",
+            "avatar": "\/uploads\/20251103\/71651937726a6894764b92e8f2701912.jpg",
+            "qizhen": 57,
+            "shanhu": 4,
+            "jinguan": 6,
+            "total_score": 83
+        },
+        {
+            "rank": 16,
+            "name": "輕鸾",
+            "uid": "616376094",
+            "avatar": "",
+            "qizhen": 51,
+            "shanhu": 2,
+            "jinguan": 9,
+            "total_score": 82
+        },
+        {
+            "rank": 17,
+            "name": "小肥柴",
+            "uid": "595427850",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 6,
+            "jinguan": 8,
+            "total_score": 82
+        },
+        {
+            "rank": 18,
+            "name": "荒",
+            "uid": "1050848902",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 6,
+            "jinguan": 11,
+            "total_score": 81
+        },
+        {
+            "rank": 19,
+            "name": "不想吃鱼呗",
+            "uid": "528269766",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 6,
+            "jinguan": 8,
+            "total_score": 81
+        },
+        {
+            "rank": 20,
+            "name": "典典丨",
+            "uid": "742495967",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 6,
+            "jinguan": 8,
+            "total_score": 81
+        },
+        {
+            "rank": 21,
+            "name": "时眠i",
+            "uid": "1892332152",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 3,
+            "jinguan": 13,
+            "total_score": 80
+        },
+        {
+            "rank": 22,
+            "name": "绪言言",
+            "uid": "1247769034",
+            "avatar": "\/uploads\/20251103\/0e9c2b07f324565cb3441d5e0ec27408.jpg",
+            "qizhen": 41,
+            "shanhu": 3,
+            "jinguan": 11,
+            "total_score": 80
+        },
+        {
+            "rank": 23,
+            "name": "一只小云云",
+            "uid": "272130855",
+            "avatar": "\/uploads\/20251103\/b6079bb34d493d4921855e8d293e24f8.jpeg",
+            "qizhen": 43,
+            "shanhu": 2,
+            "jinguan": 11,
+            "total_score": 80
+        },
+        {
+            "rank": 24,
+            "name": "小时",
+            "uid": "366508592",
+            "avatar": "\/uploads\/20251103\/ef2043dc3a2b1e31939db3c2e6a7d568.jpeg",
+            "qizhen": 43,
+            "shanhu": 2,
+            "jinguan": 11,
+            "total_score": 80
+        },
+        {
+            "rank": 25,
+            "name": "十年囚鸟",
+            "uid": "36054190",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 1,
+            "jinguan": 11,
+            "total_score": 80
+        },
+        {
+            "rank": 26,
+            "name": "何夫人",
+            "uid": "1855299724",
+            "avatar": "\/uploads\/20251105\/b4ea2e1c62042624cfaa7739e6b9eb40.jpg",
+            "qizhen": 48,
+            "shanhu": 1,
+            "jinguan": 10,
+            "total_score": 80
+        },
+        {
+            "rank": 27,
+            "name": "纪侓",
+            "uid": "790356571",
+            "avatar": "\/uploads\/20251103\/a1dfd0dfe753d79ef3103f63bf7d0998.jpg",
+            "qizhen": 44,
+            "shanhu": 6,
+            "jinguan": 8,
+            "total_score": 80
+        },
+        {
+            "rank": 28,
+            "name": "杰瑞他二爸",
+            "uid": "867451997",
+            "avatar": "",
+            "qizhen": 47,
+            "shanhu": 6,
+            "jinguan": 7,
+            "total_score": 80
+        },
+        {
+            "rank": 29,
+            "name": "林七夜Salt",
+            "uid": "372371280",
+            "avatar": "\/uploads\/20251104\/995d648f1521c56307fd75a8ad73bf5b.jpeg",
+            "qizhen": 46,
+            "shanhu": 3,
+            "jinguan": 9,
+            "total_score": 79
+        },
+        {
+            "rank": 30,
+            "name": "吃顿饱饭",
+            "uid": "679504740",
+            "avatar": "\/uploads\/20251105\/d70506d7061b1d98cf2fa40243b4e42c.jpeg",
+            "qizhen": 47,
+            "shanhu": 4,
+            "jinguan": 8,
+            "total_score": 79
+        },
+        {
+            "rank": 31,
+            "name": "睬今",
+            "uid": "1086270141",
+            "avatar": "",
+            "qizhen": 47,
+            "shanhu": 4,
+            "jinguan": 8,
+            "total_score": 79
+        },
+        {
+            "rank": 32,
+            "name": "村子第一深情",
+            "uid": "1198544387",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 9,
+            "jinguan": 6,
+            "total_score": 79
+        },
+        {
+            "rank": 33,
+            "name": "帝王谋术",
+            "uid": "245776814",
+            "avatar": "",
+            "qizhen": 54,
+            "shanhu": 5,
+            "jinguan": 5,
+            "total_score": 79
+        },
+        {
+            "rank": 34,
+            "name": "夕语",
+            "uid": "898116078",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 5,
+            "jinguan": 8,
+            "total_score": 78
+        },
+        {
+            "rank": 35,
+            "name": "龙㵀",
+            "uid": "185378968",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 4,
+            "jinguan": 8,
+            "total_score": 78
+        },
+        {
+            "rank": 36,
+            "name": "若白白",
+            "uid": "1668555145",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 8,
+            "jinguan": 7,
+            "total_score": 78
+        },
+        {
+            "rank": 37,
+            "name": "萝卜农场888",
+            "uid": "192854736",
+            "avatar": "",
+            "qizhen": 48,
+            "shanhu": 6,
+            "jinguan": 6,
+            "total_score": 78
+        },
+        {
+            "rank": 38,
+            "name": "mostro",
+            "uid": "1048959720",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 5,
+            "jinguan": 8,
+            "total_score": 77
+        },
+        {
+            "rank": 39,
+            "name": "锦鲤b3b",
+            "uid": "1488213858",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 5,
+            "jinguan": 8,
+            "total_score": 77
+        },
+        {
+            "rank": 40,
+            "name": "抹禾",
+            "uid": "731770881",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 4,
+            "jinguan": 8,
+            "total_score": 77
+        },
+        {
+            "rank": 41,
+            "name": "萌緢",
+            "uid": "803941842",
+            "avatar": "",
+            "qizhen": 50,
+            "shanhu": 3,
+            "jinguan": 7,
+            "total_score": 77
+        },
+        {
+            "rank": 42,
+            "name": "Muaf",
+            "uid": "45713774",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 8,
+            "jinguan": 6,
+            "total_score": 77
+        },
+        {
+            "rank": 43,
+            "name": "夏奕诺",
+            "uid": "1401736802",
+            "avatar": "",
+            "qizhen": 47,
+            "shanhu": 6,
+            "jinguan": 6,
+            "total_score": 77
+        },
+        {
+            "rank": 44,
+            "name": "渃一一",
+            "uid": "1639630429",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 3,
+            "jinguan": 8,
+            "total_score": 76
+        },
+        {
+            "rank": 45,
+            "name": "Lyx财源滚滚来",
+            "uid": "1446408272",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 7,
+            "jinguan": 6,
+            "total_score": 76
+        },
+        {
+            "rank": 46,
+            "name": "我叫张可爱",
+            "uid": "794342633",
+            "avatar": "",
+            "qizhen": 57,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 76
+        },
+        {
+            "rank": 47,
+            "name": "小卿予你",
+            "uid": "1338858533",
+            "avatar": "\/uploads\/20251103\/7f56bec00cd46ba562e91bbd5737cc31.jpg",
+            "qizhen": 41,
+            "shanhu": 2,
+            "jinguan": 10,
+            "total_score": 75
+        },
+        {
+            "rank": 48,
+            "name": "萧萧炸鱼号",
+            "uid": "968876806",
+            "avatar": "",
+            "qizhen": 47,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 75
+        },
+        {
+            "rank": 49,
+            "name": "美女",
+            "uid": "1897741180",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 7,
+            "jinguan": 6,
+            "total_score": 75
+        },
+        {
+            "rank": 50,
+            "name": "弑亓",
+            "uid": "848164607",
+            "avatar": "\/uploads\/20251103\/b14a4712cedba12e38e95dd655d5e152.jpg",
+            "qizhen": 51,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 75
+        },
+        {
+            "rank": 51,
+            "name": "六月圆xy",
+            "uid": "1012983574",
+            "avatar": "",
+            "qizhen": 51,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 75
+        },
+        {
+            "rank": 52,
+            "name": "乌索普的老表",
+            "uid": "433217726",
+            "avatar": "",
+            "qizhen": 52,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 75
+        },
+        {
+            "rank": 53,
+            "name": "奶瓶丶丿",
+            "uid": "1188377703",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 1,
+            "jinguan": 10,
+            "total_score": 74
+        },
+        {
+            "rank": 54,
+            "name": "雪曦呀",
+            "uid": "763610234",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 5,
+            "jinguan": 7,
+            "total_score": 74
+        },
+        {
+            "rank": 55,
+            "name": "杵",
+            "uid": "1124714688",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 5,
+            "jinguan": 7,
+            "total_score": 74
+        },
+        {
+            "rank": 56,
+            "name": "辣梨sa的梳子",
+            "uid": "1042140078",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 4,
+            "jinguan": 7,
+            "total_score": 74
+        },
+        {
+            "rank": 57,
+            "name": "江小南吖",
+            "uid": "1188163573",
+            "avatar": "",
+            "qizhen": 47,
+            "shanhu": 3,
+            "jinguan": 7,
+            "total_score": 74
+        },
+        {
+            "rank": 58,
+            "name": "仙儿与七月作伴",
+            "uid": "1033595825",
+            "avatar": "\/uploads\/20251103\/a8f5acea2f5ff3b4ac4443b02fcd1633.jpg",
+            "qizhen": 49,
+            "shanhu": 2,
+            "jinguan": 7,
+            "total_score": 74
+        },
+        {
+            "rank": 59,
+            "name": "娜娜酱啊酱",
+            "uid": "1394620707",
+            "avatar": "",
+            "qizhen": 53,
+            "shanhu": 0,
+            "jinguan": 7,
+            "total_score": 74
+        },
+        {
+            "rank": 60,
+            "name": "小月亮K",
+            "uid": "833234608",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 6,
+            "jinguan": 6,
+            "total_score": 74
+        },
+        {
+            "rank": 61,
+            "name": "凊烽",
+            "uid": "1798662466",
+            "avatar": "",
+            "qizhen": 52,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 74
+        },
+        {
+            "rank": 62,
+            "name": "军",
+            "uid": "1882677680",
+            "avatar": "",
+            "qizhen": 48,
+            "shanhu": 7,
+            "jinguan": 4,
+            "total_score": 74
+        },
+        {
+            "rank": 63,
+            "name": "任景枫L",
+            "uid": "134600070",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 2,
+            "jinguan": 10,
+            "total_score": 73
+        },
+        {
+            "rank": 64,
+            "name": "鳄鱼",
+            "uid": "541192843",
+            "avatar": "\/uploads\/20251103\/87612c6f0bc21644bba819fb9c04620b.png",
+            "qizhen": 42,
+            "shanhu": 2,
+            "jinguan": 9,
+            "total_score": 73
+        },
+        {
+            "rank": 65,
+            "name": "蜻",
+            "uid": "951543097",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 4,
+            "jinguan": 8,
+            "total_score": 73
+        },
+        {
+            "rank": 66,
+            "name": "挚雩",
+            "uid": "879530598",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 73
+        },
+        {
+            "rank": 67,
+            "name": "芋泥桃粿",
+            "uid": "1419900448",
+            "avatar": "\/uploads\/20251103\/e3fc77c5b02ca7bf5e06983ca195f7a6.jpeg",
+            "qizhen": 45,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 73
+        },
+        {
+            "rank": 68,
+            "name": "zmh5166",
+            "uid": "617809014",
+            "avatar": "\/uploads\/20251103\/412b3631994d7586a8cb428e4ecd14d3.png",
+            "qizhen": 48,
+            "shanhu": 2,
+            "jinguan": 7,
+            "total_score": 73
+        },
+        {
+            "rank": 69,
+            "name": "diamondsD",
+            "uid": "149809984",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 5,
+            "jinguan": 6,
+            "total_score": 73
+        },
+        {
+            "rank": 70,
+            "name": "找牙齿的老虎",
+            "uid": "265172391",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 5,
+            "jinguan": 6,
+            "total_score": 73
+        },
+        {
+            "rank": 71,
+            "name": "丰",
+            "uid": "511334536",
+            "avatar": "",
+            "qizhen": 51,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 73
+        },
+        {
+            "rank": 72,
+            "name": "闪",
+            "uid": "272181193",
+            "avatar": "",
+            "qizhen": 49,
+            "shanhu": 6,
+            "jinguan": 4,
+            "total_score": 73
+        },
+        {
+            "rank": 73,
+            "name": "什么又没彩色",
+            "uid": "1921477067",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 0,
+            "jinguan": 10,
+            "total_score": 72
+        },
+        {
+            "rank": 74,
+            "name": "礼",
+            "uid": "610605780",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 5,
+            "jinguan": 9,
+            "total_score": 72
+        },
+        {
+            "rank": 75,
+            "name": "葉子吖",
+            "uid": "677702854",
+            "avatar": "",
+            "qizhen": 49,
+            "shanhu": 1,
+            "jinguan": 7,
+            "total_score": 72
+        },
+        {
+            "rank": 76,
+            "name": "兔兔",
+            "uid": "395976749",
+            "avatar": "\/uploads\/20251107\/2467bd8a7bb3f98aa5d943d05e5cf31b.jpg",
+            "qizhen": 51,
+            "shanhu": 0,
+            "jinguan": 7,
+            "total_score": 72
+        },
+        {
+            "rank": 77,
+            "name": "桂馥兰香",
+            "uid": "180851634",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 6,
+            "jinguan": 5,
+            "total_score": 72
+        },
+        {
+            "rank": 78,
+            "name": "无忧香香",
+            "uid": "854487957",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 71
+        },
+        {
+            "rank": 79,
+            "name": "兔酱",
+            "uid": "1247800688",
+            "avatar": "\/uploads\/20251104\/c067969e199f82fd79a0f6bba33a8e56.jpeg",
+            "qizhen": 38,
+            "shanhu": 6,
+            "jinguan": 7,
+            "total_score": 71
+        },
+        {
+            "rank": 80,
+            "name": "开",
+            "uid": "689503289",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 4,
+            "jinguan": 7,
+            "total_score": 71
+        },
+        {
+            "rank": 81,
+            "name": "懒宝宝",
+            "uid": "1540510604",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 2,
+            "jinguan": 7,
+            "total_score": 71
+        },
+        {
+            "rank": 82,
+            "name": "婵儿",
+            "uid": "1640455074",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 4,
+            "jinguan": 6,
+            "total_score": 71
+        },
+        {
+            "rank": 83,
+            "name": "琼",
+            "uid": "993474381",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 5,
+            "jinguan": 5,
+            "total_score": 71
+        },
+        {
+            "rank": 84,
+            "name": "真笨",
+            "uid": "88977170",
+            "avatar": "",
+            "qizhen": 50,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 71
+        },
+        {
+            "rank": 85,
+            "name": "沦陷小宝0",
+            "uid": "587199536",
+            "avatar": "",
+            "qizhen": 52,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 71
+        },
+        {
+            "rank": 86,
+            "name": "南小墙",
+            "uid": "1382175769",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 6,
+            "jinguan": 8,
+            "total_score": 70
+        },
+        {
+            "rank": 87,
+            "name": "oOo草草oOo",
+            "uid": "1730251552",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 70
+        },
+        {
+            "rank": 88,
+            "name": "BC嘻嘻",
+            "uid": "36151842",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 0,
+            "jinguan": 8,
+            "total_score": 70
+        },
+        {
+            "rank": 89,
+            "name": "爱",
+            "uid": "272135620",
+            "avatar": "\/uploads\/20251103\/226c07a7da1fcbde8e244c44f1d815ca.jpeg",
+            "qizhen": 41,
+            "shanhu": 4,
+            "jinguan": 7,
+            "total_score": 70
+        },
+        {
+            "rank": 90,
+            "name": "糯转瞬软糖",
+            "uid": "970372112",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 4,
+            "jinguan": 7,
+            "total_score": 70
+        },
+        {
+            "rank": 91,
+            "name": "炸鱼的兔子",
+            "uid": "395897193",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 3,
+            "jinguan": 7,
+            "total_score": 70
+        },
+        {
+            "rank": 92,
+            "name": "毛利小舞狼",
+            "uid": "705717821",
+            "avatar": "\/uploads\/20251103\/31119c6e4d5dfb4a478a6a2e65e1e88b.png",
+            "qizhen": 43,
+            "shanhu": 3,
+            "jinguan": 7,
+            "total_score": 70
+        },
+        {
+            "rank": 93,
+            "name": "乿",
+            "uid": "1401591119",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 3,
+            "jinguan": 7,
+            "total_score": 70
+        },
+        {
+            "rank": 94,
+            "name": "皮丘啊",
+            "uid": "1965813147",
+            "avatar": "\/uploads\/20251104\/a502ffe2d3f02f246ecad148bc39a02e.jpg",
+            "qizhen": 43,
+            "shanhu": 3,
+            "jinguan": 7,
+            "total_score": 70
+        },
+        {
+            "rank": 95,
+            "name": "雾锁楼台",
+            "uid": "1500894302",
+            "avatar": "\/uploads\/20251103\/93c418472f426146bdcafb22a2cf9ff1.jpeg",
+            "qizhen": 45,
+            "shanhu": 2,
+            "jinguan": 7,
+            "total_score": 70
+        },
+        {
+            "rank": 96,
+            "name": "意轮月",
+            "uid": "1327236649",
+            "avatar": "",
+            "qizhen": 47,
+            "shanhu": 1,
+            "jinguan": 7,
+            "total_score": 70
+        },
+        {
+            "rank": 97,
+            "name": "Cordini9",
+            "uid": "681263818",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 70
+        },
+        {
+            "rank": 98,
+            "name": "小卡静静听",
+            "uid": "824499673",
+            "avatar": "",
+            "qizhen": 47,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 70
+        },
+        {
+            "rank": 99,
+            "name": "婧婧不吃鱼",
+            "uid": "562396827",
+            "avatar": "\/uploads\/20251103\/23132291027500dbada11b25eaa3d65f.jpg",
+            "qizhen": 44,
+            "shanhu": 7,
+            "jinguan": 4,
+            "total_score": 70
+        },
+        {
+            "rank": 100,
+            "name": "耀",
+            "uid": "99432626",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 6,
+            "jinguan": 4,
+            "total_score": 70
+        },
+        {
+            "rank": 101,
+            "name": "鹏鹏没有金冠",
+            "uid": "272183968",
+            "avatar": "\/uploads\/20251105\/3d22b05a44d48edb92e9bfa0cd0f8825.png",
+            "qizhen": 46,
+            "shanhu": 6,
+            "jinguan": 4,
+            "total_score": 70
+        },
+        {
+            "rank": 102,
+            "name": "壞尾巴",
+            "uid": "296600808",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 3,
+            "jinguan": 7,
+            "total_score": 69
+        },
+        {
+            "rank": 103,
+            "name": "蓓甜",
+            "uid": "1104102702",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 2,
+            "jinguan": 7,
+            "total_score": 69
+        },
+        {
+            "rank": 104,
+            "name": "涼渊",
+            "uid": "275065993",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 5,
+            "jinguan": 6,
+            "total_score": 69
+        },
+        {
+            "rank": 105,
+            "name": "小土豆o丷o",
+            "uid": "304996612",
+            "avatar": "",
+            "qizhen": 49,
+            "shanhu": 1,
+            "jinguan": 6,
+            "total_score": 69
+        },
+        {
+            "rank": 106,
+            "name": "饭饭laa",
+            "uid": "677622585",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 6,
+            "jinguan": 5,
+            "total_score": 69
+        },
+        {
+            "rank": 107,
+            "name": "暮然清浅笑留念",
+            "uid": "704272962",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 69
+        },
+        {
+            "rank": 108,
+            "name": "等候",
+            "uid": "161457503",
+            "avatar": "",
+            "qizhen": 52,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 69
+        },
+        {
+            "rank": 109,
+            "name": "菀依",
+            "uid": "185363948",
+            "avatar": "\/uploads\/20251103\/2475eba6bc1cf1adcb1b57ca2ec57b8d.jpeg",
+            "qizhen": 52,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 69
+        },
+        {
+            "rank": 110,
+            "name": "419菜烏",
+            "uid": "352573212",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 3,
+            "jinguan": 8,
+            "total_score": 68
+        },
+        {
+            "rank": 111,
+            "name": "香菜榴莲羊",
+            "uid": "1057949229",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 4,
+            "jinguan": 7,
+            "total_score": 68
+        },
+        {
+            "rank": 112,
+            "name": "李叔叔",
+            "uid": "149249606",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 5,
+            "jinguan": 6,
+            "total_score": 68
+        },
+        {
+            "rank": 113,
+            "name": "小宇sI",
+            "uid": "607482970",
+            "avatar": "\/uploads\/20251103\/9e7975023710d9ae16b9a9911d64e439.jpeg",
+            "qizhen": 44,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 68
+        },
+        {
+            "rank": 114,
+            "name": "詩雨吖",
+            "uid": "1755272987",
+            "avatar": "\/uploads\/20251105\/307c07a00c6e897870761e13b86c609a.jpeg",
+            "qizhen": 44,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 68
+        },
+        {
+            "rank": 115,
+            "name": "予泑",
+            "uid": "1897723717",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 68
+        },
+        {
+            "rank": 116,
+            "name": "泪",
+            "uid": "742510914",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 68
+        },
+        {
+            "rank": 117,
+            "name": "眉",
+            "uid": "451881407",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 5,
+            "jinguan": 5,
+            "total_score": 68
+        },
+        {
+            "rank": 118,
+            "name": "Lucario123",
+            "uid": "669673788",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 5,
+            "jinguan": 5,
+            "total_score": 68
+        },
+        {
+            "rank": 119,
+            "name": "热力循环",
+            "uid": "1751794228",
+            "avatar": "\/uploads\/20251103\/6a284b1ddc078b3fd08ca7adeb6bc646.jpg",
+            "qizhen": 35,
+            "shanhu": 4,
+            "jinguan": 8,
+            "total_score": 67
+        },
+        {
+            "rank": 120,
+            "name": "不猛将兄",
+            "uid": "53442501",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 67
+        },
+        {
+            "rank": 121,
+            "name": "糖雨儿",
+            "uid": "168908295",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 0,
+            "jinguan": 7,
+            "total_score": 67
+        },
+        {
+            "rank": 122,
+            "name": "薄尛年",
+            "uid": "814064341",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 5,
+            "jinguan": 6,
+            "total_score": 67
+        },
+        {
+            "rank": 123,
+            "name": "白貓",
+            "uid": "314747296",
+            "avatar": "\/uploads\/20251104\/bc96ff9c4406dcf60cae3c995f730eb4.jpg",
+            "qizhen": 46,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 67
+        },
+        {
+            "rank": 124,
+            "name": "我爱吃塔斯汀",
+            "uid": "351175652",
+            "avatar": "",
+            "qizhen": 49,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 67
+        },
+        {
+            "rank": 125,
+            "name": "君宝儿11",
+            "uid": "1066850751",
+            "avatar": "",
+            "qizhen": 48,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 67
+        },
+        {
+            "rank": 126,
+            "name": "墨如雪",
+            "uid": "314651079",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 66
+        },
+        {
+            "rank": 127,
+            "name": "女神⺀",
+            "uid": "469941367",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 7,
+            "jinguan": 6,
+            "total_score": 66
+        },
+        {
+            "rank": 128,
+            "name": "荣耀影咩咩",
+            "uid": "695711485",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 4,
+            "jinguan": 6,
+            "total_score": 66
+        },
+        {
+            "rank": 129,
+            "name": "海绵球球",
+            "uid": "1382072865",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 4,
+            "jinguan": 6,
+            "total_score": 66
+        },
+        {
+            "rank": 130,
+            "name": "江湖照小孩",
+            "uid": "1589149155",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 5,
+            "jinguan": 5,
+            "total_score": 66
+        },
+        {
+            "rank": 131,
+            "name": "醋主",
+            "uid": "395999015",
+            "avatar": "",
+            "qizhen": 47,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 66
+        },
+        {
+            "rank": 132,
+            "name": "不死星",
+            "uid": "356087243",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 8,
+            "jinguan": 4,
+            "total_score": 66
+        },
+        {
+            "rank": 133,
+            "name": "l喵柒",
+            "uid": "1140517356",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 66
+        },
+        {
+            "rank": 134,
+            "name": "菜籽油小登",
+            "uid": "464859303",
+            "avatar": "\/uploads\/20251103\/bb6087bb9e698f89ec02c23116debbad.jpeg",
+            "qizhen": 48,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 66
+        },
+        {
+            "rank": 135,
+            "name": "顏高",
+            "uid": "272006445",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 6,
+            "jinguan": 8,
+            "total_score": 65
+        },
+        {
+            "rank": 136,
+            "name": "狼说",
+            "uid": "630041889",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 3,
+            "jinguan": 7,
+            "total_score": 65
+        },
+        {
+            "rank": 137,
+            "name": "無悔丶",
+            "uid": "905818869",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 1,
+            "jinguan": 7,
+            "total_score": 65
+        },
+        {
+            "rank": 138,
+            "name": "元宝脑",
+            "uid": "756810743",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 65
+        },
+        {
+            "rank": 139,
+            "name": "少放香菜呀",
+            "uid": "905882181",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 65
+        },
+        {
+            "rank": 140,
+            "name": "枯草丷",
+            "uid": "1112558992",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 5,
+            "jinguan": 5,
+            "total_score": 65
+        },
+        {
+            "rank": 141,
+            "name": "娇娇睡不醒喔",
+            "uid": "1897622931",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 65
+        },
+        {
+            "rank": 142,
+            "name": "害羞鸭鸭鸭",
+            "uid": "354328619",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 65
+        },
+        {
+            "rank": 143,
+            "name": "猫乐糍",
+            "uid": "677723104",
+            "avatar": "\/uploads\/20251103\/cdacb4e600edd0e5326e6df1722e3d4f.jpeg",
+            "qizhen": 41,
+            "shanhu": 6,
+            "jinguan": 4,
+            "total_score": 65
+        },
+        {
+            "rank": 144,
+            "name": "甜妹小草莓",
+            "uid": "1161126479",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 65
+        },
+        {
+            "rank": 145,
+            "name": "丗",
+            "uid": "582623565",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 8,
+            "jinguan": 2,
+            "total_score": 65
+        },
+        {
+            "rank": 146,
+            "name": "狸",
+            "uid": "1186974394",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 64
+        },
+        {
+            "rank": 147,
+            "name": "半缕轻风",
+            "uid": "1850979185",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 0,
+            "jinguan": 7,
+            "total_score": 64
+        },
+        {
+            "rank": 148,
+            "name": "圆里个圆",
+            "uid": "970045397",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 6,
+            "jinguan": 6,
+            "total_score": 64
+        },
+        {
+            "rank": 149,
+            "name": "妖坏",
+            "uid": "272197081",
+            "avatar": "\/uploads\/20251103\/568c09f871d647136be82dd8aa27cba0.jpeg",
+            "qizhen": 36,
+            "shanhu": 5,
+            "jinguan": 6,
+            "total_score": 64
+        },
+        {
+            "rank": 150,
+            "name": "iooooooop",
+            "uid": "1977523110",
+            "avatar": "\/uploads\/20251103\/dc28674f3b7e1e6bf659cb024de204ec.jpeg",
+            "qizhen": 36,
+            "shanhu": 5,
+            "jinguan": 6,
+            "total_score": 64
+        },
+        {
+            "rank": 151,
+            "name": "木槿舒舒",
+            "uid": "1591764101",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 64
+        },
+        {
+            "rank": 152,
+            "name": "LM丶彪叔",
+            "uid": "376306787",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 64
+        },
+        {
+            "rank": 153,
+            "name": "任性小猫角色",
+            "uid": "696705276",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 64
+        },
+        {
+            "rank": 154,
+            "name": "little_young",
+            "uid": "339404439",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 64
+        },
+        {
+            "rank": 155,
+            "name": "樱儿",
+            "uid": "1437756013",
+            "avatar": "",
+            "qizhen": 47,
+            "shanhu": 1,
+            "jinguan": 5,
+            "total_score": 64
+        },
+        {
+            "rank": 156,
+            "name": "乔安逸",
+            "uid": "1592966041",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 64
+        },
+        {
+            "rank": 157,
+            "name": "追梦之灵",
+            "uid": "406203954",
+            "avatar": "",
+            "qizhen": 48,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 64
+        },
+        {
+            "rank": 158,
+            "name": "blackcoffin",
+            "uid": "1746461483",
+            "avatar": "",
+            "qizhen": 48,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 64
+        },
+        {
+            "rank": 159,
+            "name": "叫我月月阿",
+            "uid": "749128935",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 64
+        },
+        {
+            "rank": 160,
+            "name": "你想我直说",
+            "uid": "861595675",
+            "avatar": "",
+            "qizhen": 51,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 64
+        },
+        {
+            "rank": 161,
+            "name": "9分钟拿红",
+            "uid": "1437656148",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 5,
+            "jinguan": 8,
+            "total_score": 63
+        },
+        {
+            "rank": 162,
+            "name": "是小冷ne",
+            "uid": "51384547",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 3,
+            "jinguan": 7,
+            "total_score": 63
+        },
+        {
+            "rank": 163,
+            "name": "甛搽",
+            "uid": "272181980",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 5,
+            "jinguan": 6,
+            "total_score": 63
+        },
+        {
+            "rank": 164,
+            "name": "晓姝烟",
+            "uid": "951510983",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 63
+        },
+        {
+            "rank": 165,
+            "name": "听小芃碎碎念",
+            "uid": "1971267502",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 63
+        },
+        {
+            "rank": 166,
+            "name": "富婆",
+            "uid": "93919303",
+            "avatar": "\/uploads\/20251107\/655fa403960c6a49a6e02db8c440d0ce.jpeg",
+            "qizhen": 43,
+            "shanhu": 1,
+            "jinguan": 6,
+            "total_score": 63
+        },
+        {
+            "rank": 167,
+            "name": "金冠牛",
+            "uid": "1685344835",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 5,
+            "jinguan": 5,
+            "total_score": 63
+        },
+        {
+            "rank": 168,
+            "name": "冰蓝bblue",
+            "uid": "1592801275",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 63
+        },
+        {
+            "rank": 169,
+            "name": "洛白白丶",
+            "uid": "1897625389",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 6,
+            "jinguan": 4,
+            "total_score": 63
+        },
+        {
+            "rank": 170,
+            "name": "糸裕",
+            "uid": "85856479",
+            "avatar": "\/uploads\/20251103\/d668894fd8b88f0e86d23965ef76435c.jpg",
+            "qizhen": 36,
+            "shanhu": 9,
+            "jinguan": 3,
+            "total_score": 63
+        },
+        {
+            "rank": 171,
+            "name": "咖啡没糖冰",
+            "uid": "1279027493",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 1,
+            "jinguan": 8,
+            "total_score": 62
+        },
+        {
+            "rank": 172,
+            "name": "星璟璟",
+            "uid": "749724660",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 62
+        },
+        {
+            "rank": 173,
+            "name": "荔枝味皇帝龙",
+            "uid": "1463017962",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 62
+        },
+        {
+            "rank": 174,
+            "name": "小旭旭",
+            "uid": "541159674",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 62
+        },
+        {
+            "rank": 175,
+            "name": "褨",
+            "uid": "688552112",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 5,
+            "jinguan": 4,
+            "total_score": 62
+        },
+        {
+            "rank": 176,
+            "name": "璇v1",
+            "uid": "1999676298",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 5,
+            "jinguan": 4,
+            "total_score": 62
+        },
+        {
+            "rank": 177,
+            "name": "渣蝎",
+            "uid": "646326515",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 62
+        },
+        {
+            "rank": 178,
+            "name": "欧黃",
+            "uid": "1131869411",
+            "avatar": "\/uploads\/20251103\/757e5dff0ff7d7578ea7d35bdc67a0b4.jpeg",
+            "qizhen": 44,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 62
+        },
+        {
+            "rank": 179,
+            "name": "安静跑得快",
+            "uid": "1529527029",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 62
+        },
+        {
+            "rank": 180,
+            "name": "是果児吖",
+            "uid": "53459378",
+            "avatar": "\/uploads\/20251104\/64787292de2c3534e50f815e22a2fcd4.jpg",
+            "qizhen": 46,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 62
+        },
+        {
+            "rank": 181,
+            "name": "L粒橙",
+            "uid": "669738514",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 0,
+            "jinguan": 8,
+            "total_score": 61
+        },
+        {
+            "rank": 182,
+            "name": "爅名",
+            "uid": "180787810",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 0,
+            "jinguan": 7,
+            "total_score": 61
+        },
+        {
+            "rank": 183,
+            "name": "可樂锅锅",
+            "uid": "1296202578",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 4,
+            "jinguan": 6,
+            "total_score": 61
+        },
+        {
+            "rank": 184,
+            "name": "跳跳虎有点酷",
+            "uid": "211471783",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 61
+        },
+        {
+            "rank": 185,
+            "name": "kosun",
+            "uid": "679557582",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 61
+        },
+        {
+            "rank": 186,
+            "name": "欧皇无铭",
+            "uid": "1063504133",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 61
+        },
+        {
+            "rank": 187,
+            "name": "痴昕悠悠",
+            "uid": "1112399344",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 61
+        },
+        {
+            "rank": 188,
+            "name": "思甜小甜豆",
+            "uid": "1993566564",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 61
+        },
+        {
+            "rank": 189,
+            "name": "叮当吃桃桃",
+            "uid": "1371841229",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 0,
+            "jinguan": 5,
+            "total_score": 61
+        },
+        {
+            "rank": 190,
+            "name": "忧絨",
+            "uid": "185268043",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 61
+        },
+        {
+            "rank": 191,
+            "name": "淡漠的寄居蟹",
+            "uid": "1015728621",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 61
+        },
+        {
+            "rank": 192,
+            "name": "不知辰",
+            "uid": "93017377",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 7,
+            "jinguan": 3,
+            "total_score": 61
+        },
+        {
+            "rank": 193,
+            "name": "听",
+            "uid": "856566470",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 61
+        },
+        {
+            "rank": 194,
+            "name": "尕eoO",
+            "uid": "941259700",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 61
+        },
+        {
+            "rank": 195,
+            "name": "心悦怡然",
+            "uid": "1982987246",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 61
+        },
+        {
+            "rank": 196,
+            "name": "良好栀初起司",
+            "uid": "1811507409",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 61
+        },
+        {
+            "rank": 197,
+            "name": "韩兎子",
+            "uid": "22096335",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 60
+        },
+        {
+            "rank": 198,
+            "name": "安月半月半",
+            "uid": "327378544",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 60
+        },
+        {
+            "rank": 199,
+            "name": "知",
+            "uid": "145154849",
+            "avatar": "\/uploads\/20251103\/bfc092d512d4472acf1c3528d89f6d6f.jpeg",
+            "qizhen": 31,
+            "shanhu": 7,
+            "jinguan": 5,
+            "total_score": 60
+        },
+        {
+            "rank": 200,
+            "name": "草莓",
+            "uid": "149373773",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 60
+        },
+        {
+            "rank": 201,
+            "name": "没oo的船长",
+            "uid": "1752140397",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 1,
+            "jinguan": 5,
+            "total_score": 60
+        },
+        {
+            "rank": 202,
+            "name": "栀子丽欧",
+            "uid": "1124605041",
+            "avatar": "\/uploads\/20251103\/725d7badcde81de58827e299cef941c3.jpg",
+            "qizhen": 38,
+            "shanhu": 5,
+            "jinguan": 4,
+            "total_score": 60
+        },
+        {
+            "rank": 203,
+            "name": "低分是我无能",
+            "uid": "1327372069",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 5,
+            "jinguan": 4,
+            "total_score": 60
+        },
+        {
+            "rank": 204,
+            "name": "丝啦",
+            "uid": "240262969",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 60
+        },
+        {
+            "rank": 205,
+            "name": "o星迹",
+            "uid": "1639601368",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 60
+        },
+        {
+            "rank": 206,
+            "name": "小十一",
+            "uid": "1437721679",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 60
+        },
+        {
+            "rank": 207,
+            "name": "怜伶",
+            "uid": "1899086389",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 6,
+            "jinguan": 2,
+            "total_score": 60
+        },
+        {
+            "rank": 208,
+            "name": "蓁",
+            "uid": "935849790",
+            "avatar": "",
+            "qizhen": 46,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 60
+        },
+        {
+            "rank": 209,
+            "name": "超神东皇",
+            "uid": "1424063967",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 2,
+            "jinguan": 7,
+            "total_score": 59
+        },
+        {
+            "rank": 210,
+            "name": "食人族酋长1",
+            "uid": "962855460",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 59
+        },
+        {
+            "rank": 211,
+            "name": "平安",
+            "uid": "1755236509",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 59
+        },
+        {
+            "rank": 212,
+            "name": "软糖八",
+            "uid": "1043319462",
+            "avatar": "\/uploads\/20251103\/fa3bcda6aef72dcbb043b08291194368.jpeg",
+            "qizhen": 40,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 59
+        },
+        {
+            "rank": 213,
+            "name": "侬",
+            "uid": "1897654710",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 59
+        },
+        {
+            "rank": 214,
+            "name": "五竺",
+            "uid": "1901912499",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 59
+        },
+        {
+            "rank": 215,
+            "name": "练武奇才吖",
+            "uid": "1538089726",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 1,
+            "jinguan": 5,
+            "total_score": 59
+        },
+        {
+            "rank": 216,
+            "name": "知满主人",
+            "uid": "609218126",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 5,
+            "jinguan": 4,
+            "total_score": 59
+        },
+        {
+            "rank": 217,
+            "name": "簜秋千",
+            "uid": "1904516392",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 59
+        },
+        {
+            "rank": 218,
+            "name": "枫红二月花",
+            "uid": "1406568170",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 1,
+            "jinguan": 4,
+            "total_score": 59
+        },
+        {
+            "rank": 219,
+            "name": "蛇禿",
+            "uid": "350630505",
+            "avatar": "\/uploads\/20251103\/c74a963e4d4a87afe01b9386c4efe212.jpeg",
+            "qizhen": 40,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 59
+        },
+        {
+            "rank": 220,
+            "name": "Lin小可",
+            "uid": "586221617",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 59
+        },
+        {
+            "rank": 221,
+            "name": "听风澜夜思无眠",
+            "uid": "1086272969",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 59
+        },
+        {
+            "rank": 222,
+            "name": "Foammmm",
+            "uid": "1755400690",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 59
+        },
+        {
+            "rank": 223,
+            "name": "查无此芊",
+            "uid": "696063133",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 7,
+            "jinguan": 2,
+            "total_score": 59
+        },
+        {
+            "rank": 224,
+            "name": "发财路上暴富",
+            "uid": "149359217",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 59
+        },
+        {
+            "rank": 225,
+            "name": "谈恋爱倒大霉y",
+            "uid": "1880380237",
+            "avatar": "\/uploads\/20251103\/f9560aa165a65cb90be835cda6ad9f81.jpg",
+            "qizhen": 37,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 58
+        },
+        {
+            "rank": 226,
+            "name": "烟熏小鱼干",
+            "uid": "190886601",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 58
+        },
+        {
+            "rank": 227,
+            "name": "睡醒了小清",
+            "uid": "1315010746",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 58
+        },
+        {
+            "rank": 228,
+            "name": "不俗",
+            "uid": "185247261",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 58
+        },
+        {
+            "rank": 229,
+            "name": "玉醑",
+            "uid": "771765216",
+            "avatar": "\/uploads\/20251104\/a36ddfc21d5d264f9fcd859b4c7f8a09.png",
+            "qizhen": 39,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 58
+        },
+        {
+            "rank": 230,
+            "name": "皮卡丢",
+            "uid": "1751765974",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 7,
+            "jinguan": 2,
+            "total_score": 58
+        },
+        {
+            "rank": 231,
+            "name": "止聲",
+            "uid": "941373129",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 57
+        },
+        {
+            "rank": 232,
+            "name": "脱非入欧ovo",
+            "uid": "1761573318",
+            "avatar": "\/uploads\/20251103\/8628456ed19d1494307b156579fb3f07.jpeg",
+            "qizhen": 33,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 57
+        },
+        {
+            "rank": 233,
+            "name": "寻秋至",
+            "uid": "589543110",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 57
+        },
+        {
+            "rank": 234,
+            "name": "二环名媛",
+            "uid": "1235646745",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 57
+        },
+        {
+            "rank": 235,
+            "name": "嗯",
+            "uid": "472593643",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 57
+        },
+        {
+            "rank": 236,
+            "name": "玉米地里烤土豆",
+            "uid": "920680508",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 57
+        },
+        {
+            "rank": 237,
+            "name": "限定版草莓",
+            "uid": "53518946",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 57
+        },
+        {
+            "rank": 238,
+            "name": "非常j蛋黄酥",
+            "uid": "93046106",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 1,
+            "jinguan": 5,
+            "total_score": 57
+        },
+        {
+            "rank": 239,
+            "name": "单字没用",
+            "uid": "55160942",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 5,
+            "jinguan": 4,
+            "total_score": 57
+        },
+        {
+            "rank": 240,
+            "name": "公主的尐跟班",
+            "uid": "1926759368",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 57
+        },
+        {
+            "rank": 241,
+            "name": "cyanheart",
+            "uid": "1338968337",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 57
+        },
+        {
+            "rank": 242,
+            "name": "i缪",
+            "uid": "1390870075",
+            "avatar": "\/uploads\/20251103\/303b02c4d357e649b94791ed664ed4c2.jpeg",
+            "qizhen": 43,
+            "shanhu": 1,
+            "jinguan": 4,
+            "total_score": 57
+        },
+        {
+            "rank": 243,
+            "name": "Until",
+            "uid": "379983947",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 6,
+            "jinguan": 3,
+            "total_score": 57
+        },
+        {
+            "rank": 244,
+            "name": "纯元宛宛",
+            "uid": "395836360",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 57
+        },
+        {
+            "rank": 245,
+            "name": "夏",
+            "uid": "978706925",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 57
+        },
+        {
+            "rank": 246,
+            "name": "九崽ya",
+            "uid": "1780227115",
+            "avatar": "\/uploads\/20251103\/6a47508e985e6d0a821cb8f632339371.png",
+            "qizhen": 47,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 57
+        },
+        {
+            "rank": 247,
+            "name": "笖婩",
+            "uid": "824478926",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 56
+        },
+        {
+            "rank": 248,
+            "name": "虾仁猪欣7",
+            "uid": "1813016232",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 56
+        },
+        {
+            "rank": 249,
+            "name": "卓古",
+            "uid": "1658286514",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 1,
+            "jinguan": 5,
+            "total_score": 56
+        },
+        {
+            "rank": 250,
+            "name": "卖菜养斌斌8",
+            "uid": "1872573593",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 56
+        },
+        {
+            "rank": 251,
+            "name": "偷心書",
+            "uid": "856964683",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 56
+        },
+        {
+            "rank": 252,
+            "name": "丶小猴纸",
+            "uid": "905832318",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 7,
+            "jinguan": 3,
+            "total_score": 56
+        },
+        {
+            "rank": 253,
+            "name": "点趣酱",
+            "uid": "1222615298",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 56
+        },
+        {
+            "rank": 254,
+            "name": "熊猫宝宝HF",
+            "uid": "1067651885",
+            "avatar": "\/uploads\/20251103\/6180b9dedc8b0759319f8a647a74e0e1.png",
+            "qizhen": 39,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 56
+        },
+        {
+            "rank": 255,
+            "name": "小闹闹wo",
+            "uid": "454015110",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 56
+        },
+        {
+            "rank": 256,
+            "name": "戏",
+            "uid": "778774647",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 56
+        },
+        {
+            "rank": 257,
+            "name": "小土豆咬你哦",
+            "uid": "746783937",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 2,
+            "jinguan": 8,
+            "total_score": 55
+        },
+        {
+            "rank": 258,
+            "name": "菩提心琴酒",
+            "uid": "864548541",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 4,
+            "jinguan": 6,
+            "total_score": 55
+        },
+        {
+            "rank": 259,
+            "name": "虾堡鸡排",
+            "uid": "1293638211",
+            "avatar": "\/uploads\/20251103\/c1221956f86cfda9558c1639f9741734.jpg",
+            "qizhen": 31,
+            "shanhu": 3,
+            "jinguan": 6,
+            "total_score": 55
+        },
+        {
+            "rank": 260,
+            "name": "殘羽1998",
+            "uid": "145717929",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 1,
+            "jinguan": 6,
+            "total_score": 55
+        },
+        {
+            "rank": 261,
+            "name": "碗盆爱吃巧克力",
+            "uid": "269414941",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 55
+        },
+        {
+            "rank": 262,
+            "name": "陆饮冰",
+            "uid": "1640417294",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 55
+        },
+        {
+            "rank": 263,
+            "name": "Sen1in",
+            "uid": "1988557282",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 55
+        },
+        {
+            "rank": 264,
+            "name": "靑闻",
+            "uid": "1168178771",
+            "avatar": "\/uploads\/20251103\/af94580f9f809f3ff9a3e278ec3f71d2.jpeg",
+            "qizhen": 37,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 55
+        },
+        {
+            "rank": 265,
+            "name": "重庆钓鱼王",
+            "uid": "739474639",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 55
+        },
+        {
+            "rank": 266,
+            "name": "Yu涵涵涵",
+            "uid": "1682051391",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 55
+        },
+        {
+            "rank": 267,
+            "name": "_念之_",
+            "uid": "1892263356",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 1,
+            "jinguan": 5,
+            "total_score": 54
+        },
+        {
+            "rank": 268,
+            "name": "小苏打Us",
+            "uid": "99427737",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 5,
+            "jinguan": 4,
+            "total_score": 54
+        },
+        {
+            "rank": 269,
+            "name": "丶雾中的大海",
+            "uid": "1538106507",
+            "avatar": "\/uploads\/20251103\/3f84d7317e1b90812e5b2b9cd150062e.jpg",
+            "qizhen": 34,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 54
+        },
+        {
+            "rank": 270,
+            "name": "小月没动手",
+            "uid": "1988469014",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 54
+        },
+        {
+            "rank": 271,
+            "name": "布壹",
+            "uid": "1524994951",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 54
+        },
+        {
+            "rank": 272,
+            "name": "LuluSama",
+            "uid": "1156464527",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 54
+        },
+        {
+            "rank": 273,
+            "name": "Timi宝宝",
+            "uid": "1168160024",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 0,
+            "jinguan": 4,
+            "total_score": 54
+        },
+        {
+            "rank": 274,
+            "name": "优梨鸭",
+            "uid": "541093746",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 8,
+            "jinguan": 3,
+            "total_score": 54
+        },
+        {
+            "rank": 275,
+            "name": "爱予满满",
+            "uid": "406273739",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 6,
+            "jinguan": 3,
+            "total_score": 54
+        },
+        {
+            "rank": 276,
+            "name": "山川",
+            "uid": "1780458498",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 54
+        },
+        {
+            "rank": 277,
+            "name": "千丝白发",
+            "uid": "592517082",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 54
+        },
+        {
+            "rank": 278,
+            "name": "夜里风铃音",
+            "uid": "824561612",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 54
+        },
+        {
+            "rank": 279,
+            "name": "笙儿",
+            "uid": "1327335750",
+            "avatar": "\/uploads\/20251103\/8c0affc34578d71328c1a17c8bb5175a.jpg",
+            "qizhen": 37,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 54
+        },
+        {
+            "rank": 280,
+            "name": "青梅九",
+            "uid": "180947832",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 54
+        },
+        {
+            "rank": 281,
+            "name": "花火大仙",
+            "uid": "1015631790",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 7,
+            "jinguan": 2,
+            "total_score": 54
+        },
+        {
+            "rank": 282,
+            "name": "FC丨橙澈",
+            "uid": "427993277",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 54
+        },
+        {
+            "rank": 283,
+            "name": "凝望大大",
+            "uid": "1200651846",
+            "avatar": "",
+            "qizhen": 28,
+            "shanhu": 5,
+            "jinguan": 5,
+            "total_score": 53
+        },
+        {
+            "rank": 284,
+            "name": "雪麻",
+            "uid": "351128378",
+            "avatar": "\/uploads\/20251103\/deee5f74794c550f4a2b896a894710be.jpg",
+            "qizhen": 32,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 53
+        },
+        {
+            "rank": 285,
+            "name": "慕慕小考林",
+            "uid": "980217224",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 0,
+            "jinguan": 5,
+            "total_score": 53
+        },
+        {
+            "rank": 286,
+            "name": "幸運芯",
+            "uid": "231848601",
+            "avatar": "",
+            "qizhen": 26,
+            "shanhu": 9,
+            "jinguan": 3,
+            "total_score": 53
+        },
+        {
+            "rank": 287,
+            "name": "最愛炸酱面",
+            "uid": "1965778128",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 53
+        },
+        {
+            "rank": 288,
+            "name": "乌空奇",
+            "uid": "1181949503",
+            "avatar": "",
+            "qizhen": 42,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 53
+        },
+        {
+            "rank": 289,
+            "name": "小蛋蛋哦",
+            "uid": "145747370",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 53
+        },
+        {
+            "rank": 290,
+            "name": "陆玥uu",
+            "uid": "714641701",
+            "avatar": "",
+            "qizhen": 45,
+            "shanhu": 4,
+            "jinguan": 0,
+            "total_score": 53
+        },
+        {
+            "rank": 291,
+            "name": "沅",
+            "uid": "1156571518",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 1,
+            "jinguan": 6,
+            "total_score": 52
+        },
+        {
+            "rank": 292,
+            "name": "用海飞丝的鸡",
+            "uid": "1346730793",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 1,
+            "jinguan": 6,
+            "total_score": 52
+        },
+        {
+            "rank": 293,
+            "name": "胖呼呼的鸭",
+            "uid": "1814526802",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 4,
+            "jinguan": 5,
+            "total_score": 52
+        },
+        {
+            "rank": 294,
+            "name": "胡萝卜Love",
+            "uid": "982780428",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 52
+        },
+        {
+            "rank": 295,
+            "name": "芋结",
+            "uid": "646621848",
+            "avatar": "",
+            "qizhen": 30,
+            "shanhu": 5,
+            "jinguan": 4,
+            "total_score": 52
+        },
+        {
+            "rank": 296,
+            "name": "鹿儿",
+            "uid": "688612465",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 52
+        },
+        {
+            "rank": 297,
+            "name": "迷邱",
+            "uid": "1168157762",
+            "avatar": "\/uploads\/20251103\/1073c63a5d2f533ed826ea75fafc8022.jpeg",
+            "qizhen": 32,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 52
+        },
+        {
+            "rank": 298,
+            "name": "sum苏铭",
+            "uid": "1288478038",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 52
+        },
+        {
+            "rank": 299,
+            "name": "杰嵥",
+            "uid": "1167996326",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 1,
+            "jinguan": 4,
+            "total_score": 52
+        },
+        {
+            "rank": 300,
+            "name": "顺心如意2025",
+            "uid": "1384583697",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 52
+        },
+        {
+            "rank": 301,
+            "name": "o斯o",
+            "uid": "48345469",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 52
+        },
+        {
+            "rank": 302,
+            "name": "捕猫猫",
+            "uid": "237977293",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 52
+        },
+        {
+            "rank": 303,
+            "name": "原地爆炸裂开",
+            "uid": "1896292673",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 52
+        },
+        {
+            "rank": 304,
+            "name": "幸运绕微微",
+            "uid": "1974926320",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 5,
+            "jinguan": 2,
+            "total_score": 52
+        },
+        {
+            "rank": 305,
+            "name": "忏怨",
+            "uid": "1889978672",
+            "avatar": "",
+            "qizhen": 44,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 52
+        },
+        {
+            "rank": 306,
+            "name": "笑语",
+            "uid": "1668590285",
+            "avatar": "",
+            "qizhen": 30,
+            "shanhu": 3,
+            "jinguan": 5,
+            "total_score": 51
+        },
+        {
+            "rank": 307,
+            "name": "煜廿",
+            "uid": "59825193",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 51
+        },
+        {
+            "rank": 308,
+            "name": "晚星",
+            "uid": "1371990578",
+            "avatar": "\/uploads\/20251105\/331e086fcf0d327c7548b5429bf85ae3.jpeg",
+            "qizhen": 31,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 51
+        },
+        {
+            "rank": 309,
+            "name": "枝初越c",
+            "uid": "1965634141",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 51
+        },
+        {
+            "rank": 310,
+            "name": "欣子",
+            "uid": "86866170",
+            "avatar": "\/uploads\/20251103\/cfc5fd97ba8dd107a98ea5a617147ffe.jpeg",
+            "qizhen": 35,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 51
+        },
+        {
+            "rank": 311,
+            "name": "程艾影iu",
+            "uid": "696160091",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 51
+        },
+        {
+            "rank": 312,
+            "name": "饼饼呀",
+            "uid": "161423570",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 51
+        },
+        {
+            "rank": 313,
+            "name": "阿伟快跑",
+            "uid": "607451479",
+            "avatar": "",
+            "qizhen": 39,
+            "shanhu": 3,
+            "jinguan": 2,
+            "total_score": 51
+        },
+        {
+            "rank": 314,
+            "name": "千古一帝武则天",
+            "uid": "858233018",
+            "avatar": "",
+            "qizhen": 41,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 51
+        },
+        {
+            "rank": 315,
+            "name": "早安小可爱ai",
+            "uid": "541140559",
+            "avatar": "",
+            "qizhen": 43,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 51
+        },
+        {
+            "rank": 316,
+            "name": "依儿",
+            "uid": "541057701",
+            "avatar": "",
+            "qizhen": 31,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 50
+        },
+        {
+            "rank": 317,
+            "name": "孺猫",
+            "uid": "1104102231",
+            "avatar": "",
+            "qizhen": 31,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 50
+        },
+        {
+            "rank": 318,
+            "name": "束謌",
+            "uid": "1806958460",
+            "avatar": "",
+            "qizhen": 31,
+            "shanhu": 2,
+            "jinguan": 5,
+            "total_score": 50
+        },
+        {
+            "rank": 319,
+            "name": "上山打白兔",
+            "uid": "1572124192",
+            "avatar": "",
+            "qizhen": 31,
+            "shanhu": 5,
+            "jinguan": 3,
+            "total_score": 50
+        },
+        {
+            "rank": 320,
+            "name": "别给我矫情",
+            "uid": "1161532474",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 50
+        },
+        {
+            "rank": 321,
+            "name": "作絮",
+            "uid": "267783535",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 50
+        },
+        {
+            "rank": 322,
+            "name": "关美丽P事儿",
+            "uid": "1140471185",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 50
+        },
+        {
+            "rank": 323,
+            "name": "Uuuu汤圆",
+            "uid": "679570981",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 2,
+            "jinguan": 6,
+            "total_score": 49
+        },
+        {
+            "rank": 324,
+            "name": "㛭顏",
+            "uid": "45346773",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 49
+        },
+        {
+            "rank": 325,
+            "name": "夏天QiN",
+            "uid": "941270006",
+            "avatar": "",
+            "qizhen": 31,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 49
+        },
+        {
+            "rank": 326,
+            "name": "欧皇鸣鸣",
+            "uid": "956489658",
+            "avatar": "\/uploads\/20251103\/9f49e1f8d55c4b8f2163bd2d46e5121e.jpg",
+            "qizhen": 32,
+            "shanhu": 4,
+            "jinguan": 3,
+            "total_score": 49
+        },
+        {
+            "rank": 327,
+            "name": "事化",
+            "uid": "518768102",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 49
+        },
+        {
+            "rank": 328,
+            "name": "乙",
+            "uid": "782347565",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 49
+        },
+        {
+            "rank": 329,
+            "name": "小橘子愛玩游戏",
+            "uid": "1059099921",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 49
+        },
+        {
+            "rank": 330,
+            "name": "段段兔",
+            "uid": "1411971832",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 49
+        },
+        {
+            "rank": 331,
+            "name": "猫儿乖乖m",
+            "uid": "1488195378",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 49
+        },
+        {
+            "rank": 332,
+            "name": "Yuki小樱",
+            "uid": "1411824697",
+            "avatar": "\/uploads\/20251103\/ea27c1835861d63bac7b074308287227.png",
+            "qizhen": 37,
+            "shanhu": 3,
+            "jinguan": 2,
+            "total_score": 49
+        },
+        {
+            "rank": 333,
+            "name": "深度求索",
+            "uid": "629584776",
+            "avatar": "",
+            "qizhen": 40,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 49
+        },
+        {
+            "rank": 334,
+            "name": "扑讣",
+            "uid": "1168176248",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 48
+        },
+        {
+            "rank": 335,
+            "name": "途库",
+            "uid": "412634724",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 1,
+            "jinguan": 4,
+            "total_score": 48
+        },
+        {
+            "rank": 336,
+            "name": "HIRA",
+            "uid": "474594909",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 48
+        },
+        {
+            "rank": 337,
+            "name": "霏摄影星",
+            "uid": "469872257",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 4,
+            "jinguan": 4,
+            "total_score": 47
+        },
+        {
+            "rank": 338,
+            "name": "KK是熊猫呀",
+            "uid": "429929064",
+            "avatar": "",
+            "qizhen": 31,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 47
+        },
+        {
+            "rank": 339,
+            "name": "巨纯",
+            "uid": "1222747677",
+            "avatar": "",
+            "qizhen": 31,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 47
+        },
+        {
+            "rank": 340,
+            "name": "_蝴蝶__",
+            "uid": "52919075",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 47
+        },
+        {
+            "rank": 341,
+            "name": "锤锤獣",
+            "uid": "472785431",
+            "avatar": "",
+            "qizhen": 36,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 47
+        },
+        {
+            "rank": 342,
+            "name": "林小紫本人",
+            "uid": "372833563",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 47
+        },
+        {
+            "rank": 343,
+            "name": "呆",
+            "uid": "665962893",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 3,
+            "jinguan": 2,
+            "total_score": 47
+        },
+        {
+            "rank": 344,
+            "name": "忘川苦渡",
+            "uid": "791293829",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 3,
+            "jinguan": 2,
+            "total_score": 47
+        },
+        {
+            "rank": 345,
+            "name": "甜弟小熊",
+            "uid": "1400672572",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 47
+        },
+        {
+            "rank": 346,
+            "name": "dlwlrma22",
+            "uid": "1529395913",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 46
+        },
+        {
+            "rank": 347,
+            "name": "格小乖",
+            "uid": "1098588592",
+            "avatar": "",
+            "qizhen": 37,
+            "shanhu": 0,
+            "jinguan": 3,
+            "total_score": 46
+        },
+        {
+            "rank": 348,
+            "name": "胖涛熊笨笨",
+            "uid": "1416357893",
+            "avatar": "",
+            "qizhen": 30,
+            "shanhu": 5,
+            "jinguan": 2,
+            "total_score": 46
+        },
+        {
+            "rank": 349,
+            "name": "爆炸栗飞飞",
+            "uid": "351046475",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 46
+        },
+        {
+            "rank": 350,
+            "name": "听闻花影落",
+            "uid": "216676509",
+            "avatar": "",
+            "qizhen": 28,
+            "shanhu": 1,
+            "jinguan": 5,
+            "total_score": 45
+        },
+        {
+            "rank": 351,
+            "name": "小新卡特",
+            "uid": "1296613386",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 3,
+            "jinguan": 4,
+            "total_score": 45
+        },
+        {
+            "rank": 352,
+            "name": "歆小榆",
+            "uid": "918444705",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 45
+        },
+        {
+            "rank": 353,
+            "name": "倾心锦崽",
+            "uid": "1892279723",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 45
+        },
+        {
+            "rank": 354,
+            "name": "小遥",
+            "uid": "1285977940",
+            "avatar": "",
+            "qizhen": 31,
+            "shanhu": 1,
+            "jinguan": 4,
+            "total_score": 45
+        },
+        {
+            "rank": 355,
+            "name": "橘太美",
+            "uid": "904484454",
+            "avatar": "",
+            "qizhen": 30,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 45
+        },
+        {
+            "rank": 356,
+            "name": "失眠鱼o",
+            "uid": "381782948",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 45
+        },
+        {
+            "rank": 357,
+            "name": "小鳄鱼会仰泳",
+            "uid": "1806954362",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 45
+        },
+        {
+            "rank": 358,
+            "name": "伊佾",
+            "uid": "459295022",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 5,
+            "jinguan": 2,
+            "total_score": 45
+        },
+        {
+            "rank": 359,
+            "name": "Kiss婉婉",
+            "uid": "136171133",
+            "avatar": "\/uploads\/20251103\/adf8069d93546fa9dcfaa1530a6136f6.jpeg",
+            "qizhen": 33,
+            "shanhu": 3,
+            "jinguan": 2,
+            "total_score": 45
+        },
+        {
+            "rank": 360,
+            "name": "小提ovo",
+            "uid": "960062973",
+            "avatar": "",
+            "qizhen": 35,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 45
+        },
+        {
+            "rank": 361,
+            "name": "__木有节操",
+            "uid": "1929310657",
+            "avatar": "\/uploads\/20251103\/dc3434ce4db830c7e51c939507c054f6.jpg",
+            "qizhen": 35,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 45
+        },
+        {
+            "rank": 362,
+            "name": "山鸟ia",
+            "uid": "1965469344",
+            "avatar": "",
+            "qizhen": 38,
+            "shanhu": 2,
+            "jinguan": 1,
+            "total_score": 45
+        },
+        {
+            "rank": 363,
+            "name": "枪杀",
+            "uid": "1161480591",
+            "avatar": "\/uploads\/20251103\/ae940b39c790bb8101eea277ed6d0ba6.jpeg",
+            "qizhen": 32,
+            "shanhu": 0,
+            "jinguan": 4,
+            "total_score": 44
+        },
+        {
+            "rank": 364,
+            "name": "抖y潮男",
+            "uid": "782300007",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 44
+        },
+        {
+            "rank": 365,
+            "name": "灰流麗灬",
+            "uid": "1892269425",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 44
+        },
+        {
+            "rank": 366,
+            "name": "加羊蹦蹦蹦",
+            "uid": "1892297143",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 44
+        },
+        {
+            "rank": 367,
+            "name": "小棒鸭",
+            "uid": "330361599",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 44
+        },
+        {
+            "rank": 368,
+            "name": "抢劫",
+            "uid": "426521978",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 44
+        },
+        {
+            "rank": 369,
+            "name": "笑笑笑小小小",
+            "uid": "707138856",
+            "avatar": "\/uploads\/20251103\/104048ad7c98ff4c21ed575093db813f.jpg",
+            "qizhen": 35,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 44
+        },
+        {
+            "rank": 370,
+            "name": "建木哥哥",
+            "uid": "376369166",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 1,
+            "jinguan": 4,
+            "total_score": 43
+        },
+        {
+            "rank": 371,
+            "name": "蜜桃啵啵奶",
+            "uid": "679442688",
+            "avatar": "\/uploads\/20251103\/606022d9d1c1e219e77d3e903352b171.png",
+            "qizhen": 31,
+            "shanhu": 0,
+            "jinguan": 4,
+            "total_score": 43
+        },
+        {
+            "rank": 372,
+            "name": "滕滕追呀追",
+            "uid": "1146408074",
+            "avatar": "",
+            "qizhen": 28,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 43
+        },
+        {
+            "rank": 373,
+            "name": "库库里",
+            "uid": "517131264",
+            "avatar": "",
+            "qizhen": 25,
+            "shanhu": 6,
+            "jinguan": 2,
+            "total_score": 43
+        },
+        {
+            "rank": 374,
+            "name": "芝士小新yyds",
+            "uid": "1124812017",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 43
+        },
+        {
+            "rank": 375,
+            "name": "变成狐狸吃掉我",
+            "uid": "704290698",
+            "avatar": "\/uploads\/20251103\/86b292a0cece34affefff433434b08f1.png",
+            "qizhen": 33,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 43
+        },
+        {
+            "rank": 376,
+            "name": "壹",
+            "uid": "1713674810",
+            "avatar": "\/uploads\/20251103\/39e108cb43a2d5cc6ee8f884ae3bc2e7.png",
+            "qizhen": 35,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 43
+        },
+        {
+            "rank": 377,
+            "name": "绀鸠",
+            "uid": "393285730",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 42
+        },
+        {
+            "rank": 378,
+            "name": "DessonX",
+            "uid": "1217708015",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 42
+        },
+        {
+            "rank": 379,
+            "name": "平凡",
+            "uid": "1816247168",
+            "avatar": "",
+            "qizhen": 26,
+            "shanhu": 5,
+            "jinguan": 2,
+            "total_score": 42
+        },
+        {
+            "rank": 380,
+            "name": "兔圆圆",
+            "uid": "104589770",
+            "avatar": "",
+            "qizhen": 34,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 42
+        },
+        {
+            "rank": 381,
+            "name": "希",
+            "uid": "522106840",
+            "avatar": "\/uploads\/20251103\/9357a87894bf63feae3286036ce5b896.jpeg",
+            "qizhen": 33,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 42
+        },
+        {
+            "rank": 382,
+            "name": "AuVik",
+            "uid": "1850977616",
+            "avatar": "",
+            "qizhen": 25,
+            "shanhu": 2,
+            "jinguan": 4,
+            "total_score": 41
+        },
+        {
+            "rank": 383,
+            "name": "温暖夶",
+            "uid": "161522974",
+            "avatar": "\/uploads\/20251103\/e1937a09c9b4c671793482ea09db5945.gif",
+            "qizhen": 30,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 41
+        },
+        {
+            "rank": 384,
+            "name": "茫茫不慌忙",
+            "uid": "257976184",
+            "avatar": "",
+            "qizhen": 25,
+            "shanhu": 5,
+            "jinguan": 2,
+            "total_score": 41
+        },
+        {
+            "rank": 385,
+            "name": "勉强可爱520",
+            "uid": "854614840",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 41
+        },
+        {
+            "rank": 386,
+            "name": "是茶茶耶",
+            "uid": "639572561",
+            "avatar": "",
+            "qizhen": 31,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 41
+        },
+        {
+            "rank": 387,
+            "name": "冰樱by",
+            "uid": "733646818",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 41
+        },
+        {
+            "rank": 388,
+            "name": "雾也悠悠",
+            "uid": "1639651719",
+            "avatar": "",
+            "qizhen": 26,
+            "shanhu": 6,
+            "jinguan": 1,
+            "total_score": 41
+        },
+        {
+            "rank": 389,
+            "name": "帅蛋",
+            "uid": "1668200665",
+            "avatar": "\/uploads\/20251103\/297d3ed540f047409eb6010ea814cac8.jpeg",
+            "qizhen": 26,
+            "shanhu": 1,
+            "jinguan": 4,
+            "total_score": 40
+        },
+        {
+            "rank": 390,
+            "name": "珍惜",
+            "uid": "497449385",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 40
+        },
+        {
+            "rank": 391,
+            "name": "致",
+            "uid": "1932658612",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 40
+        },
+        {
+            "rank": 392,
+            "name": "女星田曦薇",
+            "uid": "394530492",
+            "avatar": "",
+            "qizhen": 33,
+            "shanhu": 2,
+            "jinguan": 1,
+            "total_score": 40
+        },
+        {
+            "rank": 393,
+            "name": "吻哭意中人",
+            "uid": "55507743",
+            "avatar": "",
+            "qizhen": 28,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 39
+        },
+        {
+            "rank": 394,
+            "name": "肆柒㖏",
+            "uid": "1640481702",
+            "avatar": "",
+            "qizhen": 30,
+            "shanhu": 0,
+            "jinguan": 3,
+            "total_score": 39
+        },
+        {
+            "rank": 395,
+            "name": "洛",
+            "uid": "474626039",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 3,
+            "jinguan": 2,
+            "total_score": 39
+        },
+        {
+            "rank": 396,
+            "name": "憾",
+            "uid": "1704328168",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 3,
+            "jinguan": 2,
+            "total_score": 39
+        },
+        {
+            "rank": 397,
+            "name": "兔兔脆皮小甜筒",
+            "uid": "433041765",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 39
+        },
+        {
+            "rank": 398,
+            "name": "红尘水",
+            "uid": "714692292",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 39
+        },
+        {
+            "rank": 399,
+            "name": "RcoolR",
+            "uid": "979436722",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 39
+        },
+        {
+            "rank": 400,
+            "name": "少10元",
+            "uid": "1401773685",
+            "avatar": "",
+            "qizhen": 28,
+            "shanhu": 4,
+            "jinguan": 1,
+            "total_score": 39
+        },
+        {
+            "rank": 401,
+            "name": "槑槑jiang",
+            "uid": "860624721",
+            "avatar": "\/uploads\/20251107\/85ffc55f8a236b83cdad8c0f2f832de5.png",
+            "qizhen": 25,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 38
+        },
+        {
+            "rank": 402,
+            "name": "轩儿鸭",
+            "uid": "1156489245",
+            "avatar": "",
+            "qizhen": 26,
+            "shanhu": 3,
+            "jinguan": 2,
+            "total_score": 38
+        },
+        {
+            "rank": 403,
+            "name": "潇洒暖心",
+            "uid": "1019108342",
+            "avatar": "",
+            "qizhen": 28,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 38
+        },
+        {
+            "rank": 404,
+            "name": "粥児",
+            "uid": "1371961517",
+            "avatar": "\/uploads\/20251103\/c808e5c76519b196d66d3882d68e1c33.jpeg",
+            "qizhen": 28,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 38
+        },
+        {
+            "rank": 405,
+            "name": "稚旕",
+            "uid": "1539841039",
+            "avatar": "",
+            "qizhen": 30,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 38
+        },
+        {
+            "rank": 406,
+            "name": "沫影映残馨",
+            "uid": "861560856",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 38
+        },
+        {
+            "rank": 407,
+            "name": "猫Mi拉小提琴",
+            "uid": "1117863223",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 38
+        },
+        {
+            "rank": 408,
+            "name": "有妖怪啊",
+            "uid": "1974973095",
+            "avatar": "",
+            "qizhen": 23,
+            "shanhu": 1,
+            "jinguan": 4,
+            "total_score": 37
+        },
+        {
+            "rank": 409,
+            "name": "oi小龙虾",
+            "uid": "220872694",
+            "avatar": "",
+            "qizhen": 24,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 37
+        },
+        {
+            "rank": 410,
+            "name": "时间倒数你我",
+            "uid": "426980257",
+            "avatar": "",
+            "qizhen": 24,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 37
+        },
+        {
+            "rank": 411,
+            "name": "小橙碎啦",
+            "uid": "136116057",
+            "avatar": "",
+            "qizhen": 26,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 37
+        },
+        {
+            "rank": 412,
+            "name": "YXF小鬼",
+            "uid": "555878514",
+            "avatar": "",
+            "qizhen": 26,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 37
+        },
+        {
+            "rank": 413,
+            "name": "噤",
+            "uid": "1171845555",
+            "avatar": "",
+            "qizhen": 26,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 37
+        },
+        {
+            "rank": 414,
+            "name": "寝",
+            "uid": "518778322",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 37
+        },
+        {
+            "rank": 415,
+            "name": "veggieg",
+            "uid": "1999693475",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 1,
+            "jinguan": 1,
+            "total_score": 37
+        },
+        {
+            "rank": 416,
+            "name": "crazy浩南",
+            "uid": "248403929",
+            "avatar": "",
+            "qizhen": 21,
+            "shanhu": 3,
+            "jinguan": 3,
+            "total_score": 36
+        },
+        {
+            "rank": 417,
+            "name": "宁是蓝星的幽光",
+            "uid": "1416307449",
+            "avatar": "",
+            "qizhen": 27,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 36
+        },
+        {
+            "rank": 418,
+            "name": "似夏都叫我",
+            "uid": "531703388",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 2,
+            "jinguan": 1,
+            "total_score": 36
+        },
+        {
+            "rank": 419,
+            "name": "泷泊",
+            "uid": "148047946",
+            "avatar": "\/uploads\/20251103\/84b75dd57b54fda2f96ce39fda5345f0.jpg",
+            "qizhen": 26,
+            "shanhu": 0,
+            "jinguan": 3,
+            "total_score": 35
+        },
+        {
+            "rank": 420,
+            "name": "小巴扎灰",
+            "uid": "541123344",
+            "avatar": "",
+            "qizhen": 25,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 35
+        },
+        {
+            "rank": 421,
+            "name": "吆",
+            "uid": "525659103",
+            "avatar": "",
+            "qizhen": 26,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 35
+        },
+        {
+            "rank": 422,
+            "name": "熊苯熊",
+            "uid": "1897640527",
+            "avatar": "",
+            "qizhen": 28,
+            "shanhu": 2,
+            "jinguan": 1,
+            "total_score": 35
+        },
+        {
+            "rank": 423,
+            "name": "蘭依",
+            "uid": "190949101",
+            "avatar": "\/uploads\/20251103\/61fc1b82d9aefc0075bcc894a66b65f8.jpeg",
+            "qizhen": 32,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 35
+        },
+        {
+            "rank": 424,
+            "name": "无线十橙",
+            "uid": "1530053930",
+            "avatar": "",
+            "qizhen": 32,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 35
+        },
+        {
+            "rank": 425,
+            "name": "方",
+            "uid": "237922810",
+            "avatar": "",
+            "qizhen": 23,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 34
+        },
+        {
+            "rank": 426,
+            "name": "周周猛男",
+            "uid": "1241527350",
+            "avatar": "",
+            "qizhen": 24,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 34
+        },
+        {
+            "rank": 427,
+            "name": "慕谖",
+            "uid": "569538793",
+            "avatar": "",
+            "qizhen": 28,
+            "shanhu": 0,
+            "jinguan": 2,
+            "total_score": 34
+        },
+        {
+            "rank": 428,
+            "name": "可乐小傅",
+            "uid": "383639620",
+            "avatar": "",
+            "qizhen": 29,
+            "shanhu": 1,
+            "jinguan": 1,
+            "total_score": 34
+        },
+        {
+            "rank": 429,
+            "name": "浩浩学长NO1",
+            "uid": "145600651",
+            "avatar": "",
+            "qizhen": 23,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 33
+        },
+        {
+            "rank": 430,
+            "name": "瞄橘",
+            "uid": "883804879",
+            "avatar": "\/uploads\/20251103\/ac49cf3707113b3e510646f6bdcbeb66.png",
+            "qizhen": 25,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 33
+        },
+        {
+            "rank": 431,
+            "name": "葉小猪",
+            "uid": "1926711744",
+            "avatar": "",
+            "qizhen": 28,
+            "shanhu": 1,
+            "jinguan": 1,
+            "total_score": 33
+        },
+        {
+            "rank": 432,
+            "name": "绿绿哎",
+            "uid": "1541503302",
+            "avatar": "",
+            "qizhen": 1,
+            "shanhu": 11,
+            "jinguan": 3,
+            "total_score": 32
+        },
+        {
+            "rank": 433,
+            "name": "略略略有点",
+            "uid": "189869432",
+            "avatar": "",
+            "qizhen": 24,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 32
+        },
+        {
+            "rank": 434,
+            "name": "天神",
+            "uid": "1050949923",
+            "avatar": "",
+            "qizhen": 26,
+            "shanhu": 0,
+            "jinguan": 2,
+            "total_score": 32
+        },
+        {
+            "rank": 435,
+            "name": "坏灬人",
+            "uid": "771797945",
+            "avatar": "",
+            "qizhen": 22,
+            "shanhu": 0,
+            "jinguan": 3,
+            "total_score": 31
+        },
+        {
+            "rank": 436,
+            "name": "西滒",
+            "uid": "213741508",
+            "avatar": "",
+            "qizhen": 23,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 31
+        },
+        {
+            "rank": 437,
+            "name": "二丫",
+            "uid": "886943401",
+            "avatar": "",
+            "qizhen": 23,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 31
+        },
+        {
+            "rank": 438,
+            "name": "输一局哭九天",
+            "uid": "886914209",
+            "avatar": "",
+            "qizhen": 22,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 31
+        },
+        {
+            "rank": 439,
+            "name": "于妃",
+            "uid": "1168139668",
+            "avatar": "",
+            "qizhen": 22,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 31
+        },
+        {
+            "rank": 440,
+            "name": "豪GG",
+            "uid": "55566463",
+            "avatar": "",
+            "qizhen": 17,
+            "shanhu": 2,
+            "jinguan": 3,
+            "total_score": 30
+        },
+        {
+            "rank": 441,
+            "name": "林允儿",
+            "uid": "35797186",
+            "avatar": "",
+            "qizhen": 19,
+            "shanhu": 1,
+            "jinguan": 3,
+            "total_score": 30
+        },
+        {
+            "rank": 442,
+            "name": "櫻馹",
+            "uid": "51400222",
+            "avatar": "",
+            "qizhen": 22,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 30
+        },
+        {
+            "rank": 443,
+            "name": "摸鱼",
+            "uid": "864582077",
+            "avatar": "\/uploads\/20251103\/39be66243ee3389cb4cf91a80a35b6b6.jpeg",
+            "qizhen": 22,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 30
+        },
+        {
+            "rank": 444,
+            "name": "芾",
+            "uid": "451850411",
+            "avatar": "",
+            "qizhen": 15,
+            "shanhu": 4,
+            "jinguan": 2,
+            "total_score": 29
+        },
+        {
+            "rank": 445,
+            "name": "么么哒安安",
+            "uid": "1572009871",
+            "avatar": "",
+            "qizhen": 19,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 29
+        },
+        {
+            "rank": 446,
+            "name": "渝小郎",
+            "uid": "161577164",
+            "avatar": "",
+            "qizhen": 20,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 28
+        },
+        {
+            "rank": 447,
+            "name": "璇儿",
+            "uid": "472725337",
+            "avatar": "\/uploads\/20251103\/a1b66e53f6872e888062cf1a02766abc.jpeg",
+            "qizhen": 15,
+            "shanhu": 5,
+            "jinguan": 1,
+            "total_score": 28
+        },
+        {
+            "rank": 448,
+            "name": "楡",
+            "uid": "1259748876",
+            "avatar": "",
+            "qizhen": 19,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 27
+        },
+        {
+            "rank": 449,
+            "name": "Ivan丨姚姚",
+            "uid": "1658202775",
+            "avatar": "",
+            "qizhen": 20,
+            "shanhu": 2,
+            "jinguan": 1,
+            "total_score": 27
+        },
+        {
+            "rank": 450,
+            "name": "赌税",
+            "uid": "1104174612",
+            "avatar": "\/uploads\/20251103\/fbf00c5d09695c0a05480cf504f8741d.png",
+            "qizhen": 22,
+            "shanhu": 1,
+            "jinguan": 1,
+            "total_score": 27
+        },
+        {
+            "rank": 451,
+            "name": "潘潘ai",
+            "uid": "1523176653",
+            "avatar": "",
+            "qizhen": 22,
+            "shanhu": 1,
+            "jinguan": 1,
+            "total_score": 27
+        },
+        {
+            "rank": 452,
+            "name": "賦8",
+            "uid": "771666535",
+            "avatar": "",
+            "qizhen": 16,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 26
+        },
+        {
+            "rank": 453,
+            "name": "傲娇的靓仔",
+            "uid": "1761505465",
+            "avatar": "",
+            "qizhen": 18,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 26
+        },
+        {
+            "rank": 454,
+            "name": "小小天才颖",
+            "uid": "166333493",
+            "avatar": "",
+            "qizhen": 17,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 26
+        },
+        {
+            "rank": 455,
+            "name": "Alan钊",
+            "uid": "1780573927",
+            "avatar": "",
+            "qizhen": 21,
+            "shanhu": 1,
+            "jinguan": 1,
+            "total_score": 26
+        },
+        {
+            "rank": 456,
+            "name": "云笺书月",
+            "uid": "1015765355",
+            "avatar": "",
+            "qizhen": 16,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 24
+        },
+        {
+            "rank": 457,
+            "name": "伤心男孩坤仔",
+            "uid": "720549066",
+            "avatar": "",
+            "qizhen": 17,
+            "shanhu": 2,
+            "jinguan": 1,
+            "total_score": 24
+        },
+        {
+            "rank": 458,
+            "name": "汵",
+            "uid": "531720640",
+            "avatar": "",
+            "qizhen": 19,
+            "shanhu": 1,
+            "jinguan": 1,
+            "total_score": 24
+        },
+        {
+            "rank": 459,
+            "name": "斑衣吹笛人",
+            "uid": "83933055",
+            "avatar": "",
+            "qizhen": 13,
+            "shanhu": 2,
+            "jinguan": 2,
+            "total_score": 23
+        },
+        {
+            "rank": 460,
+            "name": "向往Q",
+            "uid": "1382145055",
+            "avatar": "",
+            "qizhen": 18,
+            "shanhu": 2,
+            "jinguan": 0,
+            "total_score": 22
+        },
+        {
+            "rank": 461,
+            "name": "昭昭荷雾婉",
+            "uid": "206731212",
+            "avatar": "",
+            "qizhen": 17,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 20
+        },
+        {
+            "rank": 462,
+            "name": "五月二十五丨",
+            "uid": "1833958119",
+            "avatar": "",
+            "qizhen": 10,
+            "shanhu": 3,
+            "jinguan": 1,
+            "total_score": 19
+        },
+        {
+            "rank": 463,
+            "name": "饼饼心",
+            "uid": "272049206",
+            "avatar": "",
+            "qizhen": 16,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 19
+        },
+        {
+            "rank": 464,
+            "name": "春知許",
+            "uid": "1384402352",
+            "avatar": "",
+            "qizhen": 15,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 18
+        },
+        {
+            "rank": 465,
+            "name": "这次失策啦",
+            "uid": "1411836765",
+            "avatar": "",
+            "qizhen": 10,
+            "shanhu": 2,
+            "jinguan": 1,
+            "total_score": 17
+        },
+        {
+            "rank": 466,
+            "name": "初恋前男友",
+            "uid": "426450925",
+            "avatar": "",
+            "qizhen": 14,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 17
+        },
+        {
+            "rank": 467,
+            "name": "珍惜",
+            "uid": "497449385",
+            "avatar": "",
+            "qizhen": 11,
+            "shanhu": 1,
+            "jinguan": 1,
+            "total_score": 16
+        },
+        {
+            "rank": 468,
+            "name": "低分是我无能",
+            "uid": "1327372069",
+            "avatar": "",
+            "qizhen": 13,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 16
+        },
+        {
+            "rank": 469,
+            "name": "洛小辰呀",
+            "uid": "1128261528",
+            "avatar": "",
+            "qizhen": 4,
+            "shanhu": 4,
+            "jinguan": 1,
+            "total_score": 15
+        },
+        {
+            "rank": 470,
+            "name": "樱",
+            "uid": "1732757636",
+            "avatar": "",
+            "qizhen": 13,
+            "shanhu": 1,
+            "jinguan": 0,
+            "total_score": 15
+        },
+        {
+            "rank": 471,
+            "name": "月球梦想",
+            "uid": "1892294744",
+            "avatar": "",
+            "qizhen": 7,
+            "shanhu": 2,
+            "jinguan": 1,
+            "total_score": 14
+        },
+        {
+            "rank": 472,
+            "name": "蟒",
+            "uid": "469823799",
+            "avatar": "",
+            "qizhen": 5,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 13
+        },
+        {
+            "rank": 473,
+            "name": "归_辞",
+            "uid": "824493199",
+            "avatar": "",
+            "qizhen": 4,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 12
+        },
+        {
+            "rank": 474,
+            "name": "傿",
+            "uid": "272037242",
+            "avatar": "",
+            "qizhen": 6,
+            "shanhu": 0,
+            "jinguan": 2,
+            "total_score": 12
+        },
+        {
+            "rank": 475,
+            "name": "猛男贴贴",
+            "uid": "35908486",
+            "avatar": "",
+            "qizhen": 8,
+            "shanhu": 2,
+            "jinguan": 0,
+            "total_score": 12
+        },
+        {
+            "rank": 476,
+            "name": "jGcaDdQ",
+            "uid": "1125479316",
+            "avatar": "",
+            "qizhen": 8,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 11
+        },
+        {
+            "rank": 477,
+            "name": "宁是蓝星的幽光",
+            "uid": "1416307449",
+            "avatar": "",
+            "qizhen": 11,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 11
+        },
+        {
+            "rank": 478,
+            "name": "向云鹿",
+            "uid": "1663434719",
+            "avatar": "",
+            "qizhen": 11,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 11
+        },
+        {
+            "rank": 479,
+            "name": "林七夜Salt",
+            "uid": "158427013",
+            "avatar": "\/uploads\/20251103\/995d648f1521c56307fd75a8ad73bf5b.jpeg",
+            "qizhen": 7,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 10
+        },
+        {
+            "rank": 480,
+            "name": "兔叽彡",
+            "uid": "920726529",
+            "avatar": "",
+            "qizhen": 10,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 10
+        },
+        {
+            "rank": 481,
+            "name": "Kio兔",
+            "uid": "610639772",
+            "avatar": "",
+            "qizhen": 1,
+            "shanhu": 1,
+            "jinguan": 2,
+            "total_score": 9
+        },
+        {
+            "rank": 482,
+            "name": "久爱琦宝",
+            "uid": "474708788",
+            "avatar": "",
+            "qizhen": 4,
+            "shanhu": 1,
+            "jinguan": 1,
+            "total_score": 9
+        },
+        {
+            "rank": 483,
+            "name": "离",
+            "uid": "1897656397",
+            "avatar": "",
+            "qizhen": 5,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 8
+        },
+        {
+            "rank": 484,
+            "name": "詸鹿",
+            "uid": "743745167",
+            "avatar": "",
+            "qizhen": 4,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 7
+        },
+        {
+            "rank": 485,
+            "name": "唯独77",
+            "uid": "1489060883",
+            "avatar": "",
+            "qizhen": 4,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 7
+        },
+        {
+            "rank": 486,
+            "name": "种菜的波波",
+            "uid": "1469253381",
+            "avatar": "",
+            "qizhen": 4,
+            "shanhu": 1,
+            "jinguan": 0,
+            "total_score": 6
+        },
+        {
+            "rank": 487,
+            "name": "要偷",
+            "uid": "17702776700",
+            "avatar": "",
+            "qizhen": 2,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 5
+        },
+        {
+            "rank": 488,
+            "name": "少爷",
+            "uid": "1994629808",
+            "avatar": "",
+            "qizhen": 5,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 5
+        },
+        {
+            "rank": 489,
+            "name": "Kio兔",
+            "uid": "610639772",
+            "avatar": "",
+            "qizhen": 1,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 4
+        },
+        {
+            "rank": 490,
+            "name": "宥财",
+            "uid": "1910900363",
+            "avatar": "",
+            "qizhen": 4,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 4
+        },
+        {
+            "rank": 491,
+            "name": "半是蜜糖灬",
+            "uid": "589438648",
+            "avatar": "",
+            "qizhen": 0,
+            "shanhu": 0,
+            "jinguan": 1,
+            "total_score": 3
+        },
+        {
+            "rank": 492,
+            "name": "塔克拉玛哈哈哈",
+            "uid": "968146309",
+            "avatar": "",
+            "qizhen": 3,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 3
+        },
+        {
+            "rank": 493,
+            "name": "故小故吖",
+            "uid": "1826616301",
+            "avatar": "",
+            "qizhen": 3,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 3
+        },
+        {
+            "rank": 494,
+            "name": "霏摄影星",
+            "uid": "469872257",
+            "avatar": "",
+            "qizhen": 0,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 0
+        },
+        {
+            "rank": 495,
+            "name": "久爱琦宝",
+            "uid": "474708788",
+            "avatar": "",
+            "qizhen": 0,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 0
+        },
+        {
+            "rank": 496,
+            "name": "楡",
+            "uid": "1259748876",
+            "avatar": "",
+            "qizhen": 0,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 0
+        },
+        {
+            "rank": 497,
+            "name": "皮卡伊布",
+            "uid": "1346854708",
+            "avatar": "",
+            "qizhen": 0,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 0
+        },
+        {
+            "rank": 498,
+            "name": "皮卡伊布",
+            "uid": "1346954708",
+            "avatar": "",
+            "qizhen": 0,
+            "shanhu": 0,
+            "jinguan": 0,
+            "total_score": 0
+        }
+    ]
+}
